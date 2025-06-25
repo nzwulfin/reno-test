@@ -25,6 +25,7 @@
         "registry.access.redhat.com/rhel7**",
         "registry.access.redhat.com/rhel8/**",
         "registry.access.redhat.com/rhel9/**",
+        "registry.redhat.io/rhel9/**",
         "registry.access.redhat.com/rhscl/**",
         "registry.access.redhat.com/ubi*{,/}**",
         "redhat/**"
