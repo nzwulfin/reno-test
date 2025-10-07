@@ -1,4 +1,4 @@
-FROM registry.redhat.io/rhel9/rhel-bootc:9.6-1751469975
+FROM registry.redhat.io/rhel9/rhel-bootc:9.6-1759818154
 
 # Set up some variables and labels to ID images in our environments
 MAINTAINER sysadmins@example.com
